@@ -24,4 +24,4 @@ This case study documents the investigation and resolution of a BSOD encountered
 - Power management settings directly affect driver stability
 
 ### Included Documentation
-📄 **[BSOD Fix Guide (docx)](Troubleshooting/BSOD-Realtek-Driver/BSOD_FIX_GUIDE.docx)** 
+📄 **[BSOD Fix Guide (docx)](Troubleshooting/BSOD-Realtek-Driver/BSOD_FIX_GUIDE.pdf)** 
