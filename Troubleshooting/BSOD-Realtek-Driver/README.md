@@ -22,6 +22,3 @@ This case study documents the investigation and resolution of a BSOD encountered
 - USB Selective Suspend contributed to driver crashes
 - Switching VM network mode to NAT prevents recurrence
 - Power management settings directly affect driver stability
-
-### Included Documentation
-📄 **[BSOD Fix Guide (pdf)](Troubleshooting/BSOD-Realtek-Driver/BSOD_FIX_GUIDE.pdf)**  
